@@ -1,0 +1,9 @@
+
+1.- Listar todos los productos del que más se vende al que menos, por unidades vendidas, para todos los datos de la base.
+
+2.- Listar todos los productos del que más se vende al que menos, por unidades vendidas, pero segmentado por el año de la fecha de orden.
+
+3.- Listar todos los productos del que más se vende al que menos, por unidades vendidas, pero segmentado por oficina.
+
+4, 5, 6.- Igual a los tres anteriores, pero no por unidades vendidas, sino por monto reportado en las órdenes de compra, para aquéllas que NO cumplen con el estado 'Shipped' y 'Resolved'. 
+
