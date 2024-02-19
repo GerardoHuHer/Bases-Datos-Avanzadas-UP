@@ -1,0 +1,10 @@
+7.- Hacer una vista con el query 2.
+
+8.- Hacer una vista con el query 6.
+
+9.- Hacer una tabla, un trigger y un stored-procedure para que cada vez que se inserta una orden nueva, se inserte en la tabla nueva la fecha, ciudad y país de destino.
+	Notas: 
+		i) Use la fecha shippedDate para las operaciones. 
+		ii) Le puede ser de utilidad: https://www.mysqltutorial.org/mysql-triggers/mysql-after-insert-trigger/
+
+10.- Duplique los productos (tabla products) con los mismos datos, pero con nuevos códigos y nombres. Le puede ser de utilidad el INSERT INTO SELECT https://www.w3schools.com/mysql/mysql_insert_into_select.asp
